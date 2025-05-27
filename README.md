@@ -44,11 +44,6 @@ In this task, I analyzed a simulated phishing email to detect common red flags u
 
 ---
 
-## 📤 Submission
-
-This repository is submitted as part of the cybersecurity internship assignment.  
-👉 [Submit here](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
 ---
 
 ## 🙌 Author
