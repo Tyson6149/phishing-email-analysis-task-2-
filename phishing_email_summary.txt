@@ -1,0 +1,30 @@
+How to Spot a Phishing Email – Case Study
+
+Email Snapshot:
+Display a mini version or paraphrased format of the phishing email, highlighting the following:
+- Sender email
+- Suspicious link
+- Urgent message
+
+Red Flags Detected:
+
+Icon  Indicator          Explanation
+📧    Fake Email Address micr0softsupport.com is spoofed
+🔗    Suspicious Link    Typo in domain name
+⚠️    Urgent Language    Threats like account suspension
+👤    Generic Greeting   “Dear User” instead of your name
+✍️    Poor Grammar       Slightly awkward phrasing
+
+How to Stay Safe:
+Use icons and quick tips:
+
+✅ Always check the sender's domain
+🔍 Hover over links before clicking
+🚫 Don't download unknown attachments
+🧠 Think before you act on threats
+🔐 Use multi-factor authentication
+
+Tools Used:
+- MXToolbox
+- Google Safe Browsing
+- VirusTotal (optional)

@@ -1,0 +1,14 @@
+Return-Path: <security-alert@micr0softsupport.com>
+Received: from fake-smtp-server.com ([192.168.1.100])
+    by mx.google.com with ESMTPS id abc123
+    for <user@example.com>;
+    Tue, 21 May 2024 10:15:00 -0700 (PDT)
+Received: from localhost (unknown [10.0.0.1])
+    by smtp.micr0softsupport.com with SMTP id xyz789
+    for <user@example.com>;
+    Tue, 21 May 2024 10:10:00 -0700 (PDT)
+From: security-alert@micr0softsupport.com
+Subject: Urgent Account Notice
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of micr0softsupport.com does not designate 192.168.1.100 as permitted sender) smtp.mailfrom=micr0softsupport.com;
+       dkim=fail header.i=@micr0softsupport.com

@@ -1,0 +1,14 @@
+From: security-alert@micr0softsupport.com
+Subject: Urgent Account Notice: Immediate Action Required
+
+Dear User,
+
+We've detected unusual sign-in activity on your Microsoft account.
+To secure your account, please verify your information by clicking the link below:
+
+🔗 http://micros0ft-account-verification.com/login
+
+If you do not verify within 24 hours, your account will be suspended permanently.
+
+Thank you,
+Microsoft Security Team
