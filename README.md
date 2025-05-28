@@ -12,16 +12,18 @@ In this task, I analyzed a simulated phishing email to detect common red flags u
 
 ## 📂 Files Included
 
-| File | Description |
-|------|-------------|
-| `phishing_email.txt` | Sample phishing email content |
-| `report.md` | Written analysis of phishing indicators |
+| File                                             | Description                                    |
+| ------------------------------------------------ | ---------------------------------------------- |
+| `phishing_email.txt`                             | Sample phishing email content                  |
+| `report.md`                                      | Written analysis of phishing indicators        |
 | `chat_analysis.md` or `chat_analysis_updated.md` | AI conversation simulation to analyze phishing |
-| `phishing_summary.txt` |  summarizing phishing threats |
-| `email_header_map.png` | Visual map of email header path (flowchart) |
-| `tips_section.md` | Safety tips to avoid phishing attacks |
-| `header_parser.py` | Python script to parse email headers |
-| `sample_header.txt` | Example header file for script testing |
+| `phishing_summary.txt`                           | Summary of phishing threats                    |
+| `phishing_email_summary.png`                     | Infographic summarizing phishing red flags     |
+| `email_header_map.png`                           | Visual map of email header path (flowchart)    |
+| `tips_section.md`                                | Safety tips to avoid phishing attacks          |
+| `header_parser.py`                               | Python script to parse email headers           |
+| `sample_header.txt`                              | Example header file for script testing         |
+
 
 ---
 
